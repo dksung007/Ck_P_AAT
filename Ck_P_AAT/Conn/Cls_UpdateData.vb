@@ -17,6 +17,6 @@ Public Class Cls_UpdateData
                 blnRet = False
             End If
         End Using
-        Return blnRet
+        Return blnRet 'Return data
     End Function
 End Class
